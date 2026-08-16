@@ -1,0 +1,7 @@
+{
+ "version": "0.2.81",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.81/dryfire-update-0.2.81.zip",
+ "sha256": "8bf4a1cce2f5dbb00c36b076af6086425fd8a69b20c42e396ef3929cf84e70c2",
+ "size": 905893,
+ "notes": "Auto-update check: units on your Wi-Fi now spot new versions and install them with one click from the setup page."
+}
