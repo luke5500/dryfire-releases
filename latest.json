@@ -1,7 +1,7 @@
 {
- "version": "0.2.81",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.81/dryfire-update-0.2.81.zip",
- "sha256": "8bf4a1cce2f5dbb00c36b076af6086425fd8a69b20c42e396ef3929cf84e70c2",
- "size": 905893,
- "notes": "Auto-update check: units on your Wi-Fi now spot new versions and install them with one click from the setup page."
+ "version": "0.2.82",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.82/dryfire-update-0.2.82.zip",
+ "sha256": "8b1a4b76c935a354a88ab69dd06aa1c15d6095e325e55f88f169bcba353b4325",
+ "size": 910870,
+ "notes": "Match mode: build multi-stage matches from your saved stages, shoot them in order, and follow live USPSA-style standings. Plus the Match tab joins Training and Stage on the course page."
 }
