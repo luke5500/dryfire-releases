@@ -1,7 +1,7 @@
 {
- "version": "0.2.83",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.83/dryfire-update-0.2.83.zip",
- "sha256": "5023ed10b58629da95edb53cf38ec8a426beb799a1e6d32ffd3b52791a3b19fc",
- "size": 934970,
- "notes": "Two new disciplines: Steel Challenge (five printable plates incl. red-post STOP plates, SCSA scoring, all eight official stages built in) and IDPA (official target in three sizes, time-plus scoring). Plus stage categories and a persistent update beacon."
+ "version": "0.2.84",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.84/dryfire-update-0.2.84.zip",
+ "sha256": "129a1b7b53bc02e95dda7af9de37277eeadbb4ab2992828921f6c21f2e761365",
+ "size": 1444454,
+ "notes": ""
 }
