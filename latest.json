@@ -1,7 +1,7 @@
 {
- "version": "0.2.82",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.82/dryfire-update-0.2.82.zip",
- "sha256": "c8d1d0d4f6dc8d2f7f2630d66cc467531eae96520e85baee0144bc7b0466d67a",
- "size": 911402,
- "notes": "Match mode: build multi-stage matches from your saved stages, shoot them in order, and follow live USPSA-style standings. Plus the Match tab joins Training and Stage on the course page."
+ "version": "0.2.83",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.83/dryfire-update-0.2.83.zip",
+ "sha256": "5023ed10b58629da95edb53cf38ec8a426beb799a1e6d32ffd3b52791a3b19fc",
+ "size": 934970,
+ "notes": "Two new disciplines: Steel Challenge (five printable plates incl. red-post STOP plates, SCSA scoring, all eight official stages built in) and IDPA (official target in three sizes, time-plus scoring). Plus stage categories and a persistent update beacon."
 }
