@@ -1,7 +1,7 @@
 {
- "version": "0.2.128",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.128/dryfire-update-0.2.128.zip",
- "sha256": "18ebd99f095b0e7250a9c2282ac9f2836f5eca19879b4d34fa5f2e78ed1db822",
- "size": 1513330,
- "notes": "Uncalibrated-sheet safeguard: a sheet in view that did not calibrate (boot-time marker misread) is named in status and diag, retried in the boot window, and re-swept at park time (no wake-time or in-course cost). Match page, Targets heading and camera chip warn that the sheet will not score. Start button label is now just Start."
+ "version": "0.2.129",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.129/dryfire-update-0.2.129.zip",
+ "sha256": "7e4f5a0de0a54406a8e2ea49d99678f5809e31b964008267caeabd339af76417",
+ "size": 1514435,
+ "notes": "Uncalibrated-sheet warning fix: a neighbouring camera's sheet peeking in at the frame edge (its other markers project outside the view) is no longer reported as an uncalibrated sheet, and the warning stays quiet while a boot-time calibration retry is pending, appearing only if the retries could not fix it."
 }
