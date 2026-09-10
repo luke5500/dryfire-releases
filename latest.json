@@ -1,7 +1,7 @@
 {
- "version": "0.2.133",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.133/dryfire-update-0.2.133.zip",
- "sha256": "6cbd56351c83c7eb2af0238e6a53e076e9aebef03278ae5d33ab5e2533c1654c",
- "size": 1519057,
- "notes": "Accurate open-page counts: reconnects count once and zeroing feeds are excluded. Cleans up connections on navigation and Back/Forward. Includes faster shot audio. Reload open course pages after installation."
+ "version": "0.2.134",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.134/dryfire-update-0.2.134.zip",
+ "sha256": "f6662d35347b7d88557f6bdf4b5006e1d00c5e27572e86f4cc6b35f7b73499ae",
+ "size": 1519792,
+ "notes": "Fix targets disappearing when discovery announcements are missed. Direct health checks now determine reachability, tolerate brief interruptions, and run in the background."
 }
