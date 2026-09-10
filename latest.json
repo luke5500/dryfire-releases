@@ -1,7 +1,7 @@
 {
- "version": "0.2.130",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.130/dryfire-update-0.2.130.zip",
- "sha256": "d4024832b8cc1e48769529af7b9afeab056f31ba23a65c68af7df282a7c69bb6",
- "size": 1516493,
- "notes": "Shared-course compatibility revision 1 for Pi/P4 ranges. Targets and the host must have matching revisions; missing or older revisions prompt an update. Firmware version warnings and fleet update delivery are now hardware-specific. Update Pi testers to join revision-1 P4 units."
+ "version": "0.2.131",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.131/dryfire-update-0.2.131.zip",
+ "sha256": "1d0489c9364951fbeed9e09984727ab2c8b13b6c6ab3000c8a1e2163066b9359",
+ "size": 1517351,
+ "notes": "Fix iPhone shot sounds and repeated course starts after returning to the browser; correctly label P4 targets as skipped during fleet updates. Reload open course pages after installing."
 }
