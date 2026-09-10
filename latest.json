@@ -1,7 +1,7 @@
 {
- "version": "0.2.131",
- "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.131/dryfire-update-0.2.131.zip",
- "sha256": "1d0489c9364951fbeed9e09984727ab2c8b13b6c6ab3000c8a1e2163066b9359",
- "size": 1517351,
- "notes": "Fix iPhone shot sounds and repeated course starts after returning to the browser; correctly label P4 targets as skipped during fleet updates. Reload open course pages after installing."
+ "version": "0.2.132",
+ "url": "https://github.com/luke5500/dryfire-releases/releases/download/v0.2.132/dryfire-update-0.2.132.zip",
+ "sha256": "c82dae2fba5675677581fde7eb8560ade49c69325fc2fa4bf27d3bd00f7e4dff",
+ "size": 1518016,
+ "notes": "Faster shot sounds when a Pi hosts a course, including mixed Pi/P4 targets. Immediate feedback with duplicate protection and silent trace updates. Reload open course pages after installation."
 }
